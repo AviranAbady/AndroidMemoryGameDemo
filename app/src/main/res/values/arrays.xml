@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="flags">
+        <item>@drawable/flag1</item>
+        <item>@drawable/flag2</item>
+        <item>@drawable/flag3</item>
+        <item>@drawable/flag4</item>
+        <item>@drawable/flag5</item>
+        <item>@drawable/flag6</item>
+        <item>@drawable/flag7</item>
+        <item>@drawable/flag8</item>
+    </integer-array>
+</resources>
